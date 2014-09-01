@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/usr/local/bin/anaconda'
+let g:netrw_dirhist_2='/usr/share/X11/xorg.conf.d'
+let g:netrw_dirhist_3='/home/andrew/workspace/webPairs_project/templates/webPairs'
+let g:netrw_dirhist_4='/home/andrew/workspace/pairsproject/resdicts'
+let g:netrw_dirhist_5='/home/andrew/workspace/pairsproject'
+let g:netrw_dirhist_6='/home/andrew/workspace/varna'
